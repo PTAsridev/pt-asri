@@ -5,7 +5,7 @@
         <div class="navigation-left">
             <div class="brand-wrapper">
             <a href="/" aria-current="page" class="brand w-nav-brand w--current">
-                <img src="~/assets/images/Logo.jpg" loading="lazy" alt="" class="logo" />
+                <img src="~/assets/images/Logo.png" loading="lazy" alt="" class="logo" />
                 <div class="logo-text">PT Asri</div>
             </a>
             <div class="navigation-line"></div>

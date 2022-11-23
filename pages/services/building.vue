@@ -20,6 +20,9 @@
                 loading="lazy" alt="" class="button-arrow" />
             </a>
           </div>
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/building/79c68313-e95d-46ef-b16d-554ab4edd032.jpg" alt="Building Maintenance">
+          </div>
         </div>
       </div>
     </div>
@@ -61,6 +64,21 @@
               cleaning still does not meet NFPA 96 standards, you will be reimbursed in full for the cost of the
               cleaning.
             </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="gallery-section">
+      <div class="container-large">
+        <div class="grid grid-cols-3 gap-8 justify-items-stretch align-middle">
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/building/7e961055-c54c-4403-b26a-982519aae6ee.jpg" alt="PT Asri Building Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/building/4221082f-baa4-414b-b0cb-f8803e0d922c.jpg" alt="PT Asri Building Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/building/37432552-c017-46ae-9989-16f26ebc8f59.jpg" alt="PT Asri Building Maintenance" class="w-full object-cover">
           </div>
         </div>
       </div>

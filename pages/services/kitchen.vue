@@ -4,7 +4,6 @@
       <div class="container">
         <div class="w-layout-grid service-hero-grid">
           <div data-w-id="e7cd25e2-8504-78ab-0d95-40ab5e85665d"
-            style="-webkit-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"
             class="service-hero-content">
             <div class="heading-normal">Kitchen &amp; Laundry Exhaust Cleaning Services</div>
             <div class="service-detail-accent">
@@ -21,6 +20,9 @@
                 src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f35401e2af573c4b_Arrow%20Right.svg"
                 loading="lazy" alt="" class="button-arrow" />
             </a>
+          </div>
+          <div>
+            <img src="~/assets/images/4a6ffb28-03dc-47dd-a08c-225944f1a35e.jpg" alt="Kitchen Maintenance">
           </div>
         </div>
       </div>
@@ -63,6 +65,21 @@
               cleaning still does not meet NFPA 96 standards, you will be reimbursed in full for the cost of the
               cleaning.
             </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="gallery-section">
+      <div class="container-large">
+        <div class="grid grid-cols-3 gap-8 justify-items-stretch align-middle">
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/1D6F3500-1710-475C-B809-AE76828EB091.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/8FB447B4-F8AE-4486-B678-D24AFEF0F924.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-square overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/F4A680C1-DF26-4D0F-8C7B-8C3F490D26B4.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
           </div>
         </div>
       </div>

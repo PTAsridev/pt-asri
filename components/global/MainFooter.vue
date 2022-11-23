@@ -4,7 +4,7 @@
         <div class="container">
             <div class="footer-content">
             <div class="div-block"><a href="/" aria-current="page" class="footer-brand w-nav-brand w--current"><img
-                    src="~/assets/images/Logo.jpg"
+                    src="~/assets/images/Logo.png"
                     loading="lazy" width="32" height="32" alt="" class="logo" style="" />
                 <div class="logo-text footer">PT Asri</div>
                 </a>
