@@ -14,6 +14,11 @@ export default {
   {
     MainNav,
     MainFooter
+  },
+  data () {
+    return {
+      showMobileMenu: false
+    }
   }
 }
 </script>

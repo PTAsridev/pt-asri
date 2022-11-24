@@ -20,16 +20,20 @@
           class="company-accent-wrapper">
           <h3>Get in touch with our team</h3>
         </div>
-        <div class="w-layout-grid company-map-grid bali">
-          <div data-w-id="00f79301-7212-5e28-2e8c-0a77124c4a89"
-            style="-webkit-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"
-            class="company-map-card">
+        <div class="flex flex-col">
+          <div data-w-id="00f79301-7212-5e28-2e8c-0a77124c4a89" class="company-map-card">
             <h4>PT. ASRI</h4>
-            <p>Jl. Buana Kubu, Gang Asem VI No. 9Denpasar 80117<br />Office: 0361-485 849<br />Fax: 0361-485
-              040<br />WA/Mobile: +62 851-0142-1578<br />Email: cvasri@dps.centrin.net.id<br />
+            <p>Jl. Buana Kubu, Gang Asem VI No. 9 Denpasar 80117
+              <br />Office: 0361-485 849
+              <br />Fax: 0361-485 040
+              <br />WA/Mobile: +62 851-0142-1578
+              <br />Email: cvasri@dps.centrin.net.id
+              <br />
             </p>
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15777.070625802411!2d115.1911544!3d-8.6660757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10e4009e55d420fe!2sAsri.%20CV%20-%20Denpasar!5e0!3m2!1sen!2sid!4v1667817717608!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="w-full mt-8 overflow-hidden">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15777.070625802411!2d115.1911544!3d-8.6660757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10e4009e55d420fe!2sAsri.%20CV%20-%20Denpasar!5e0!3m2!1sen!2sid!4v1667817717608!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
       </div>
     </div>

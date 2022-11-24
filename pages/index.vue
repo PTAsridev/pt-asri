@@ -27,6 +27,11 @@
             </div>
         </div>
         <services-section></services-section>
+        <div>
+            <div class="container aspect-video">
+                <img src="~/assets/images/63149a59-082a-4871-852d-e1fd4d7bae3d.jpg" alt="PT Asri Indonesia">
+            </div>
+        </div>
         <div id="Projects" class="project-section">
             <div class="container">
             <div data-w-id="684cf77d-a9a2-1e43-195a-96f7ab64edcf" class="title-wrapper-split">

@@ -2114,6 +2114,10 @@ textarea.w-select {
     right: 0;
     width: 100%
 }
+.w-nav-overlay-open {
+    height: 7004px;
+    display: block;
+}
 
 .w-nav-overlay [data-nav-menu-open] {
     top: 0

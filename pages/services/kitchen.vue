@@ -71,7 +71,7 @@
     </div>
     <div class="gallery-section">
       <div class="container-large">
-        <div class="grid grid-cols-3 gap-8 justify-items-stretch align-middle">
+        <div class="grid lg:grid-cols-3 gap-8 justify-items-stretch align-middle">
           <div class="aspect-square overflow-hidden flex items-center justify-center">
             <img src="~/assets/images/kitchen/1D6F3500-1710-475C-B809-AE76828EB091.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
           </div>
@@ -84,78 +84,17 @@
         </div>
       </div>
     </div>
-    <div class="cta-section">
-      <div class="container-large">
-        <div data-w-id="a6c090e4-ebab-65b6-5989-a803a20e41b8" class="cta-block">
-          <div>
-            <div>
-              <h2 class="h2-title">JUST A CALL TO CLEAN ALL</h2>
-            </div>
-            <div class="cta-content-wrapper"><a href="https://wa.me/+6287733733030" class="button-important-white center w-inline-block">
-                <div>Schedule a Call</div><img
-                  src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f354016801573c90_arrow-right-line.svg"
-                  loading="lazy" alt="" class="button-arrow" />
-              </a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="values-section">
-      <div class="container-large">
-        <div class="title-wrap-standard"><img
-            src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed24759ae5a29490f6ee1_Vector.svg"
-            loading="lazy" data-w-id="2879c79d-1a4a-d09c-1616-0902a154f810" alt="" class="star-strategy-content" />
-          <h4>Other Services by Asri</h4>
-        </div>
-        <div data-w-id="5e1bd987-2655-fe13-98c7-7be3bcc2e68d"
-          style="-webkit-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"
-          class="w-layout-grid service-grid"><a href="/service/design" aria-current="page"
-            class="service-card w-inline-block w--current">
-            <h3 class="card-title">Kitchen &amp; Laundry Exhaust Cleaning Services</h3><img
-              src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed3a581f6076109297eca_Ellipse%202.svg"
-              loading="lazy" alt="" class="service-star" />
-            <div class="button-text margin-top-32">
-              <div class="button-text-remove">Learn More</div><img
-                src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f35401e2af573c4b_Arrow%20Right.svg"
-                loading="lazy" alt="" class="button-arrow-small" />
-            </div>
-          </a><a href="/service/design" aria-current="page" class="service-card w-inline-block w--current">
-            <h3 class="card-title">Building Services</h3><img
-              src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed3a581f6076109297eca_Ellipse%202.svg"
-              loading="lazy" alt="" class="service-star" />
-            <div class="button-text margin-top-32">
-              <div class="button-text-remove">Learn More</div><img
-                src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f35401e2af573c4b_Arrow%20Right.svg"
-                loading="lazy" alt="" class="button-arrow-small" />
-            </div>
-          </a><a href="/service/design" aria-current="page" class="service-card w-inline-block w--current">
-            <h3 class="card-title">Drainage Maintenance</h3><img
-              src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed3a581f6076109297eca_Ellipse%202.svg"
-              loading="lazy" alt="" class="service-star" />
-            <div class="button-text margin-top-32">
-              <div class="button-text-remove">Learn More</div><img
-                src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f35401e2af573c4b_Arrow%20Right.svg"
-                loading="lazy" alt="" class="button-arrow-small" />
-            </div>
-          </a><a href="/service/design" aria-current="page" class="service-card w-inline-block w--current">
-            <h3 class="card-title">Residential Maintenance</h3><img
-              src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed3a581f6076109297eca_Ellipse%202.svg"
-              loading="lazy" alt="" class="service-star" />
-            <div class="button-text margin-top-32">
-              <div class="button-text-remove">Learn More</div><img
-                src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ec895f35401e2af573c4b_Arrow%20Right.svg"
-                loading="lazy" alt="" class="button-arrow-small" />
-            </div>
-          </a></div>
-      </div>
-    </div>
+    <call-to-action></call-to-action>
+    <services-section></services-section>
   </div>
 </template>
 
 <script>
-  export default {
-
-  }
+import CallToAction from '~/components/global/CallToAction.vue'
+import ServicesSection from '~/components/global/ServicesSection.vue'
+export default {
+  components: { CallToAction, ServicesSection },
+}
 
 </script>
 
