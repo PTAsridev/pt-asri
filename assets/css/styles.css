@@ -3110,7 +3110,6 @@ blockquote {
 .hero {
     overflow: hidden;
     padding-right: 5%;
-    padding-bottom: 60px;
     padding-left: 5%;
 }
 
@@ -3183,7 +3182,7 @@ blockquote {
 
 .service-section {
     overflow: hidden;
-    padding: 100px 3%;
+    padding: 80px 3%;
 }
 
 .service-grid {
