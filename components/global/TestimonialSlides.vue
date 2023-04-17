@@ -1,9 +1,7 @@
 <template>
     <div class="testimonial-slider">
         <div class="container">
-        <div data-w-id="a2a600f4-d8ef-f683-ff91-a6bdb723d09e" class="title-wrap-standard"><img
-            src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed24759ae5a29490f6ee1_Vector.svg"
-            loading="lazy" data-w-id="a2a600f4-d8ef-f683-ff91-a6bdb723d09f" alt="" class="star-testimonial" />
+        <div data-w-id="a2a600f4-d8ef-f683-ff91-a6bdb723d09e" class="sm:text-center mb-2">
             <h3>Testimonials from our customers</h3>
         </div>
         <VueSlickCarousel v-bind="settings" class="container">

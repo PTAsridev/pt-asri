@@ -6,7 +6,7 @@
         <div class="brand-wrapper">
           <a href="/" aria-current="page" class="brand w-nav-brand w--current">
             <img src="~/assets/images/Logo.png" loading="lazy" alt="" class="logo" />
-            <div class="logo-text">PT Asri</div>
+            <div class="logo-text">PT ASRI INDONESIA</div>
           </a>
           <div class="navigation-line"></div>
         </div>
@@ -31,7 +31,7 @@
             </div>
           </nav>
         </div>
-        <a href="/company" class="nav-link w-inline-block">
+        <a href="/services" class="nav-link w-inline-block">
           <div>Products</div>
         </a>
         <a href="/company" class="nav-link w-inline-block">
@@ -65,7 +65,7 @@
               </div>
             </nav>
           </div>
-          <a href="/company" class="nav-link w-inline-block">
+          <a href="/services" class="nav-link w-inline-block">
             <div>Products</div>
           </a>
           <a href="/company" class="nav-link w-inline-block">
