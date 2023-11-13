@@ -4,10 +4,10 @@
     <div class="nav-container">
       <div class="navigation-left">
         <div class="brand-wrapper">
-          <a href="/" aria-current="page" class="brand w-nav-brand w--current">
+          <nuxt-link to="/" aria-current="page" class="brand w-nav-brand w--current">
             <img src="~/assets/images/Logo.png" loading="lazy" alt="" class="logo" />
             <div class="logo-text">PT ASRI INDONESIA</div>
-          </a>
+          </nuxt-link>
           <div class="navigation-line"></div>
         </div>
       </div>

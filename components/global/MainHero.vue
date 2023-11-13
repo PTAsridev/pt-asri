@@ -2,8 +2,9 @@
 <div class="isolate bg-white">
   <main>
     <div class="relative px-6 lg:px-8 bg-cover bg-bottom bg-blend-overlay" :style="{ backgroundImage: `url(${backgroundUrl})` }">
+      <div class="overlay absolute w-full h-full bg-black opacity-30 top-0 left-0 z-0"></div>
     <!-- <div class="relative px-6 lg:px-8 bg-cover bg-center"> -->
-      <div class="mx-auto max-w-3xl pt-20 pb-32 mt-28 sm:pt-32 sm:pb-20">
+      <div class="relative mx-auto max-w-3xl pt-20 pb-32 mt-28 sm:pt-32 sm:pb-20 z-20">
         <div>
           <div>
             <h1 class="text-4xl font-bold tracking-tight text-white sm:text-center sm:text-8xl">A partner for success</h1>

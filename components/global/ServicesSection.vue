@@ -1,6 +1,6 @@
 <template>
   <div class="service-section">
-    <div class="container-small">
+    <div class="container-large">
       <div data-w-id="0afba1a1-7275-cf80-3fcf-e6c723623db6" class="title-wrap-service">       
       </div>
       <div class="sm:text-center">
