@@ -65,6 +65,21 @@
         </div>
       </div>
     </div> -->
+    <div class="gallery-section">
+      <div class="container-large">
+        <div class="grid lg:grid-cols-3 gap-8 justify-items-stretch align-middle">
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/drainage/drainage-(1).jpg" alt="PT Asri Drainage Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/drainage/drainage-(2).jpg" alt="PT Asri Drainage Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/drainage/drainage-(3).jpg" alt="PT Asri Drainage Maintenance" class="w-full object-cover">
+          </div>
+        </div>
+      </div>
+    </div>
     <call-to-action></call-to-action>
     <services-section></services-section>
   </div>

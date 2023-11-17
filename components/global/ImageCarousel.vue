@@ -16,6 +16,16 @@
                     <img src="~/assets/images/095a5da6-8bfc-4419-848f-8bafe711cdf4.jpg" alt="PT ASRI INDONESIA" class="w-full h-full object-cover">
                 </div>
             </div>
+            <div class="w-slide">
+                <div class="aspect-w-16 aspect-h-9">
+                    <img src="~/assets/images/building/building-(1).jpg" alt="PT ASRI INDONESIA" class="w-full h-full object-cover">
+                </div>
+            </div>
+            <div class="w-slide">
+                <div class="aspect-w-16 aspect-h-9">
+                    <img src="~/assets/images/drainage/drainage-(3).jpg" alt="PT ASRI INDONESIA" class="w-full h-full object-cover">
+                </div>
+            </div>
         </VueSlickCarousel>
     </div>
 </template>

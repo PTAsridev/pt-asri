@@ -18,9 +18,9 @@
         <div data-w-id="07308b2b-7e38-9541-9d76-38759f143d2a"
           class="w-layout-grid customer-service-logo">
           <img src="~/assets/images/ukas.jpg" loading="lazy" alt="" class="customer-logo" />
-          <img src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed85f11a5ac26f7c9c4e4_IKECA-logo-high-res.png" loading="lazy" alt="" class="customer-logo" />
-          <img src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed8d0f8bd96637e4b2181_1200px-US-OSHA-Logo.svg.png" loading="lazy" id="w-node-_07308b2b-7e38-9541-9d76-38759f143d30-94573c0b" srcset="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed8d0f8bd96637e4b2181_1200px-US-OSHA-Logo.svg-p-500.png 500w, https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed8d0f8bd96637e4b2181_1200px-US-OSHA-Logo.svg-p-800.png 800w, https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed8d0f8bd96637e4b2181_1200px-US-OSHA-Logo.svg-p-1080.png 1080w, https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed8d0f8bd96637e4b2181_1200px-US-OSHA-Logo.svg.png 1200w" sizes="90vw" alt="" class="customer-logo" />
-          <img src="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed89311a5ac6808c9c7ea_unnamed.png" loading="lazy" id="w-node-_07308b2b-7e38-9541-9d76-38759f143d2f-94573c0b" srcset="https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed89311a5ac6808c9c7ea_unnamed-p-500.png 500w, https://uploads-ssl.webflow.com/631ec895f35401c665573bfc/631ed89311a5ac6808c9c7ea_unnamed.png 512w" sizes="90vw" alt="" class="customer-logo" />
+          <img src="~/assets/images/ikeca.png" loading="lazy" alt="" class="customer-logo" />
+          <img src="~/assets/images/osha.png" loading="lazy" alt="" class="customer-logo" />
+          <img src="~/assets/images/nfpa.png" loading="lazy" alt="" class="customer-logo" />
         </div>
       </div>
       <div class="container-large"></div>

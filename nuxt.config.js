@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "PT Asri Indonesia",
+    title: "Asri Indonesia",
     htmlAttrs: {
       lang: "en",
     },

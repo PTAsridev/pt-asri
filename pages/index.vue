@@ -27,6 +27,7 @@
             </div>
             </div>
         </div> -->
+        <certification-bar></certification-bar>
         <services-section></services-section>
         <image-carousel></image-carousel>
         <products-section></products-section>
@@ -41,6 +42,7 @@ import CallToAction from '~/components/global/CallToAction.vue'
 import ProductsSection from '~/components/global/ProductsSection.vue'
 import TestimonialSlides from '~/components/global/TestimonialSlides.vue'
 import ImageCarousel from '~/components/global/ImageCarousel.vue'
+import CertificationBar from '~/components/global/CertificationBar.vue'
 export default {
-  components: { MainHero, TestimonialSlides, ProductsSection, CallToAction, ImageCarousel },}
+  components: { MainHero, TestimonialSlides, ProductsSection, CallToAction, ImageCarousel, CertificationBar },}
 </script>

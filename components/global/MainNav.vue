@@ -6,7 +6,7 @@
         <div class="brand-wrapper">
           <nuxt-link to="/" aria-current="page" class="brand w-nav-brand w--current">
             <img src="~/assets/images/Logo.png" loading="lazy" alt="" class="logo" />
-            <div class="logo-text">PT ASRI INDONESIA</div>
+            <div class="logo-text">ASRI INDONESIA</div>
           </nuxt-link>
           <div class="navigation-line"></div>
         </div>
@@ -71,7 +71,7 @@
           <a href="/company" class="nav-link w-inline-block">
             <div>Company</div>
           </a>
-          <a href="#" class="navigation-button w-button">Contact Us</a>
+          <a href="https://wa.me/+6287733733030" class="navigation-button w-button">Contact Us</a>
         </nav>
       </div>
     </div>

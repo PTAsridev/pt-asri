@@ -72,14 +72,50 @@
     <div class="gallery-section">
       <div class="container-large">
         <div class="grid lg:grid-cols-3 gap-8 justify-items-stretch align-middle">
-          <div class="aspect-square overflow-hidden flex items-center justify-center">
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
             <img src="~/assets/images/kitchen/1D6F3500-1710-475C-B809-AE76828EB091.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
           </div>
-          <div class="aspect-square overflow-hidden flex items-center justify-center">
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
             <img src="~/assets/images/kitchen/8FB447B4-F8AE-4486-B678-D24AFEF0F924.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
           </div>
-          <div class="aspect-square overflow-hidden flex items-center justify-center">
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
             <img src="~/assets/images/kitchen/F4A680C1-DF26-4D0F-8C7B-8C3F490D26B4.jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(1).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(2).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(3).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(4).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(5).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(6).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(7).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(8).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(9).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(10).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(11).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
+          </div>
+          <div class="aspect-w-4 aspect-h-5 overflow-hidden flex items-center justify-center">
+            <img src="~/assets/images/kitchen/kitchen-(12).jpg" alt="PT Asri Kitchen Maintenance" class="w-full object-cover">
           </div>
         </div>
       </div>
