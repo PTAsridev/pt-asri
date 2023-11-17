@@ -2965,8 +2965,8 @@ blockquote {
 }
 
 .logo {
-    width: 120px;
-    margin-right: 12px;
+    width: 60px;
+    margin-right: 6px;
 }
 
 .nav-container {
@@ -3066,8 +3066,7 @@ blockquote {
 
 .logo-text {
     color: #00384a;
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 18px;
     font-weight: 700;
     letter-spacing: -1px;
 }
@@ -3075,7 +3074,20 @@ blockquote {
 .logo-text.footer {
     color: #e0e7ea;
 }
+@media (min-width:768px) {
+    .logo {
+        width: 100px;
+        margin-right: 10px;
+    }
 
+    .logo-text {
+        color: #00384a;
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 700;
+        letter-spacing: -1px;
+    }
+}
 .hero-cta-block {
     position: absolute;
     left: auto;
@@ -3182,7 +3194,7 @@ blockquote {
 
 .service-section {
     overflow: hidden;
-    padding: 80px 3%;
+    padding: 40px 3%;
 }
 
 .service-grid {
@@ -6244,8 +6256,8 @@ blockquote {
 
 @media screen and (max-width: 479px) {
     .hero-title {
-        font-size: 50px;
-        line-height: 60px;
+        font-size: 36px;
+        line-height: 48px;
     }
 
     .button-grid {
