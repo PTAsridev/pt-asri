@@ -30,7 +30,6 @@
         <certification-bar></certification-bar>
         <services-section></services-section>
         <image-carousel></image-carousel>
-        <products-section></products-section>
         <call-to-action></call-to-action>
         <testimonial-slides></testimonial-slides>
   </div>

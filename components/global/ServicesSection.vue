@@ -1,5 +1,5 @@
 <template>
-  <div class="service-section">
+  <div class="service-section pb-4">
     <div class="container-large">
       <div data-w-id="0afba1a1-7275-cf80-3fcf-e6c723623db6" class="title-wrap-service">       
       </div>
@@ -10,7 +10,7 @@
       </div>
       <div data-w-id="1f59b9c7-fefb-e97e-7701-a5e513b053d7"
         style="-webkit-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 55px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"
-        class="w-layout-grid service-grid">
+        class="w-layout-grid service-grid py-8">
         <a data-w-id="1f59b9c7-fefb-e97e-7701-a5e513b053d8" href="/services/kitchen"
           class="w-inline-block">
           <div class="w-full aspect-w-16 aspect-h-9 ">

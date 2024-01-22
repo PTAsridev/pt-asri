@@ -31,9 +31,6 @@
             </div>
           </nav>
         </div>
-        <a href="/services" class="nav-link w-inline-block">
-          <div>Products</div>
-        </a>
         <a href="/company" class="nav-link w-inline-block">
           <div>Company</div>
         </a>

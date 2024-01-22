@@ -1,7 +1,7 @@
 <template>
 <div class="isolate bg-white">
   <main>
-    <div class="relative px-6 lg:px-8 bg-cover bg-bottom bg-blend-overlay" :style="{ backgroundImage: `url(${backgroundUrl})` }">
+    <div class="relative px-6 lg:px-8 bg-cover bg-center bg-blend-overlay" :style="{ backgroundImage: `url(${backgroundUrl})` }">
       <div class="overlay absolute w-full h-full bg-black opacity-30 top-0 left-0 z-0"></div>
     <!-- <div class="relative px-6 lg:px-8 bg-cover bg-center"> -->
       <div class="relative mx-auto max-w-3xl pt-20 pb-32 mt-28 sm:pt-32 sm:pb-20 z-20">
@@ -34,7 +34,7 @@
 </style>
 
 <script>
-import backgroundUrl from '~/assets/images/2561afbd-2b78-4742-bf80-5a6caeceac39.jpg'
+import backgroundUrl from '~/assets/images/gil-ribeiro-3hO8igCybds-unsplash.jpg'
 
 export default {
   data() {
